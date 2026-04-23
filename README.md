@@ -102,7 +102,7 @@ As shown above, the number of images of train and valid datasets is large enough
 <br><br>
 <h4>2.2 Derivation of 512x512 pixels ImageMask Dataset</h4>
 The folder structure of <b>Glioblastoma Multiforme Brain MRI Dataset for Tumo</b> is the following, which
-contains 936 JPG images files, no corresponding annotation files.<br>
+contains 936 JPG images files, and no corresponding annotation files.<br>
 <pre>
 ./Glioblastoma Multiforme Brain MRI Dataset for Tumo
 └─Glioblastoma
