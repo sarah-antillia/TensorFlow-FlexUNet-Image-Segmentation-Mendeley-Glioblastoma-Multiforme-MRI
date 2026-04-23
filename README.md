@@ -109,7 +109,7 @@ contains 936 JPG images files, and no corresponding annotation files.<br>
      ├─00D5A20C.jpg
      ├─00D5A824.jpg  
 ...
-
+     
      └─00499695.jpg
 </pre>
 <b>Original Glioblastoma Sample Images</b><br>
