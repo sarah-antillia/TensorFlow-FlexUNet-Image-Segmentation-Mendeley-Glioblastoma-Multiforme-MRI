@@ -101,17 +101,16 @@ As shown above, the number of images of train and valid datasets is large enough
  training set of our segmentation model.
 <br><br>
 <h4>2.2 Derivation of 512x512 pixels ImageMask Dataset</h4>
-The folder structure of <b>Glioblastoma Multiforme Brain MRI Dataset for Tumo</b> is the following, which
+The folder structure of <b>Glioblastoma Multiforme Brain MRI Dataset for Tumor</b> is the following, which
 contains 936 JPG images files, and no corresponding annotation files.<br>
 <pre>
-./Glioblastoma Multiforme Brain MRI Dataset for Tumo
+./Glioblastoma Multiforme Brain MRI Dataset for Tumor
 └─Glioblastoma
      ├─00D5A20C.jpg
-     ├─00D5A824.jpg
-   
+     ├─00D5A824.jpg  
 ...
-     └─00499695.jpg
 
+     └─00499695.jpg
 </pre>
 <b>Original Glioblastoma Sample Images</b><br>
 <img src="./projects/TensorFlowFlexUNet/Mendeley-Glioblastoma-Multiforme/asset/original_glioblastoma.png" 
