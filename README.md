@@ -77,7 +77,7 @@ CC BY 4.0</a>
  please download the dataset from the google drive our downscaled 
  <a href="https://drive.google.com/file/d/1Z-K5dIRw0TZ7TW1NAEKpL6qflLuMkqzz/view?usp=sharing">
 Mendeley-Glioblastoma-Multiforme-ImageMask-Dataset.zip</a> .zip</a> 
-(<a href="https://www.mit.edu/~amini/LICENSE.md">MIT</a>) 
+(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)) 
 , expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be:
 <br>
 <pre>
@@ -102,7 +102,7 @@ As shown above, the number of images of train and valid datasets is large enough
 <br><br>
 <h4>2.2 Derivation of 512x512 pixels ImageMask Dataset</h4>
 The folder structure of <b>Glioblastoma Multiforme Brain MRI Dataset for Tumor</b> is the following, which
-contains 936 JPG images files, and no corresponding annotation files.<br>
+contains 936 JPG images files, but no corresponding annotation files.<br>
 <pre>
 ./Glioblastoma Multiforme Brain MRI Dataset for Tumor
 └─Glioblastoma
